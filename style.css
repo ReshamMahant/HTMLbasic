@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(162, 220, 201);
+}
+
+body h1{
+    background-color: blueviolet;
+}
+
+.current{
+    color: rgb(156, 64, 31);
+}
